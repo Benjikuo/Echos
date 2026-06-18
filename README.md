@@ -5,11 +5,11 @@
 
 <p><img src="https://github.com/Benjikuo/Echos/blob/main/image/photo_5298557985095360536_w.jpg?raw=true"/></p>
 
-<br>
-
 Echos is a 2D acoustic search-and-rescue drone simulation project.
 
 The system models how a drone could search for survivors in an indoor or collapsed-building environment where GPS, cameras, and thermal sensors may fail. Instead of relying on vision, Echos uses active ultrasonic sensing and passive survivor-signal tracking.
+
+<br>
 
 ## 🛠️ Why We Built This
 
