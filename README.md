@@ -5,6 +5,8 @@
 
 <p><img src="https://github.com/Benjikuo/Echos/blob/main/image/photo_5298557985095360536_w.jpg?raw=true"/></p>
 
+<br>
+
 Echos is a 2D acoustic search-and-rescue drone simulation project.
 
 The system models how a drone could search for survivors in an indoor or collapsed-building environment where GPS, cameras, and thermal sensors may fail. Instead of relying on vision, Echos uses active ultrasonic sensing and passive survivor-signal tracking.
@@ -21,6 +23,8 @@ The goal is to simulate an acoustic drone system that can:
 - follow passive survivor-signal strength
 - switch between search, hunt, and return-home mission modes
 
+<br>
+
 ## 🧩 Features
 
 - 📡 **SFCW Ranging** – Uses 40–50 kHz stepped-frequency continuous wave sensing for phase-based distance estimation.
@@ -29,6 +33,8 @@ The goal is to simulate an acoustic drone system that can:
 - 🧭 **Mission Commander** – Uses SCOUT, HUNT, and RTH states for search-and-rescue behavior.
 - 🤖 **PPO Training Wrapper** – Includes curriculum learning stages for reinforcement learning experiments.
 - 🗺️ **2D Maze Simulation** – Provides ray tracing, wall detection, and survivor search in a controlled environment.
+
+<br>
 
 ## 📁 Project Structure
 
